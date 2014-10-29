@@ -10,6 +10,21 @@
 ////////// Fluff Items ///////////
 //////////////////////////////////
 
+/obj/item/clothing/under/fluff/nursesuitred
+        name = "Nurse Suit"
+        desc = "An expertly tailored nurse suit, made out of fine fabrics."
+        icon = 'icons/obj/custom_items.dmi'
+        icon_state = "nursesuitred"
+        item_state = "nursesuitred"
+        item_color = "nursesuitred"
+
+/obj/item/clothing/glasses/hud/health/fluff/pink
+        name = "Pink Health Scanner Hud"
+        desc = "Beautifully crafted health scanner hud glasses, made for someone special."
+        icon = 'icons/obj/custom_items.dmi'
+        icon_state = "healthpink"
+        item_state = "healthpink"
+
 /obj/item/weapon/paper/fluff/sue_donem // aikasan: Sue Donem
 	name = "cyborgification waiver"
 	desc = "It's some kind of official-looking contract."
