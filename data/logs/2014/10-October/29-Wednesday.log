@@ -1,0 +1,303 @@
+
+
+Starting up. 19:18.56
+---------------------
+[19:18:56]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[19:18:56]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[19:18:56]MISC: Adding game mode traitor (traitor) to configuration.
+[19:18:56]MISC: Adding game mode calamity (calamity) to configuration.
+[19:18:56]MISC: Adding game mode changeling (changeling) to configuration.
+[19:18:56]MISC: Adding game mode cult (cult) to configuration.
+[19:18:56]MISC: Adding game mode extended (extended) to configuration.
+[19:18:56]MISC: Adding game mode heist (heist) to configuration.
+[19:18:56]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[19:18:56]MISC: Adding game mode meteor (meteor) to configuration.
+[19:18:56]MISC: Adding game mode mutiny (mutiny) to configuration.
+[19:18:56]MISC: Adding game mode ninja (ninja) to configuration.
+[19:18:56]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[19:18:56]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[19:18:56]MISC: Adding game mode revolution (revolution) to configuration.
+[19:18:56]MISC: Adding game mode wizard (wizard) to configuration.
+[19:19:01]MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[19:19:01]MISC: Database connection failed. Reverting to the legacy ban system.
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[19:19:01]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 19:20.21
+---------------------
+[19:20:21]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[19:20:21]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[19:20:21]MISC: Adding game mode traitor (traitor) to configuration.
+[19:20:21]MISC: Adding game mode calamity (calamity) to configuration.
+[19:20:21]MISC: Adding game mode changeling (changeling) to configuration.
+[19:20:21]MISC: Adding game mode cult (cult) to configuration.
+[19:20:21]MISC: Adding game mode extended (extended) to configuration.
+[19:20:21]MISC: Adding game mode heist (heist) to configuration.
+[19:20:21]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[19:20:21]MISC: Adding game mode meteor (meteor) to configuration.
+[19:20:21]MISC: Adding game mode mutiny (mutiny) to configuration.
+[19:20:21]MISC: Adding game mode ninja (ninja) to configuration.
+[19:20:21]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[19:20:21]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[19:20:21]MISC: Adding game mode revolution (revolution) to configuration.
+[19:20:21]MISC: Adding game mode wizard (wizard) to configuration.
+[19:20:26]MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[19:20:26]MISC: Database connection failed. Reverting to the legacy ban system.
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[19:20:26]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 19:21.35
+---------------------
+[19:21:35]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[19:21:35]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[19:21:35]MISC: Adding game mode traitor (traitor) to configuration.
+[19:21:35]MISC: Adding game mode calamity (calamity) to configuration.
+[19:21:35]MISC: Adding game mode changeling (changeling) to configuration.
+[19:21:35]MISC: Adding game mode cult (cult) to configuration.
+[19:21:35]MISC: Adding game mode extended (extended) to configuration.
+[19:21:35]MISC: Adding game mode heist (heist) to configuration.
+[19:21:35]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[19:21:35]MISC: Adding game mode meteor (meteor) to configuration.
+[19:21:35]MISC: Adding game mode mutiny (mutiny) to configuration.
+[19:21:35]MISC: Adding game mode ninja (ninja) to configuration.
+[19:21:35]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[19:21:35]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[19:21:35]MISC: Adding game mode revolution (revolution) to configuration.
+[19:21:35]MISC: Adding game mode wizard (wizard) to configuration.
+[19:21:35]MISC: Unknown setting in configuration: 'sql_enabled'
+[19:21:40]ADMIN: Loading Banlist
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[19:21:40]DEBUG: Rebuilding Master Controller
+[19:22:06]ACCESS: Login: DarkGhost12/(DarkGhost12) from 127.0.0.1-4125478034 || BYOND v506
+[19:22:23]ADMIN: DarkGhost12 has started the game.
+[19:22:23]ACCESS: Logout: *no key*/(DarkGhost12)
+[19:22:23]ACCESS: Login: DarkGhost12/(Tansy Harris) from 127.0.0.1-4125478034 || BYOND v506
+[19:22:40]DEBUG: Next event in 29.496 minutes.
+[19:23:25]ADMIN: DarkGhost12/(Tansy Harris) created a /obj/item/clothing/under/rank/nursesuit
+[19:24:01]ADMIN: DarkGhost12/(Tansy Harris) created a /obj/item/clothing/under/fluff/nursesuitred
+[19:24:04]ADMIN: DarkGhost12/(Tansy Harris) created a /obj/item/clothing/under/fluff/nursesuitred
+[19:24:42]SAY: mouse (694)/ : Squeek?
+[19:25:02]ADMIN: DarkGhost12/(Tansy Harris) created a /obj/item/clothing/glasses/hud/health/fluff/pink
+[19:25:22]ACCESS: Logout: DarkGhost12/(Tansy Harris)
+
+
+Starting up. 19:30.39
+---------------------
+[19:30:39]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[19:30:39]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[19:30:39]MISC: Adding game mode traitor (traitor) to configuration.
+[19:30:39]MISC: Adding game mode calamity (calamity) to configuration.
+[19:30:39]MISC: Adding game mode changeling (changeling) to configuration.
+[19:30:39]MISC: Adding game mode cult (cult) to configuration.
+[19:30:39]MISC: Adding game mode extended (extended) to configuration.
+[19:30:39]MISC: Adding game mode heist (heist) to configuration.
+[19:30:39]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[19:30:39]MISC: Adding game mode meteor (meteor) to configuration.
+[19:30:39]MISC: Adding game mode mutiny (mutiny) to configuration.
+[19:30:39]MISC: Adding game mode ninja (ninja) to configuration.
+[19:30:39]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[19:30:39]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[19:30:39]MISC: Adding game mode revolution (revolution) to configuration.
+[19:30:39]MISC: Adding game mode wizard (wizard) to configuration.
+[19:30:39]MISC: Unknown setting in configuration: 'sql_enabled'
+[19:30:43]ADMIN: Loading Banlist
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[19:30:44]DEBUG: Rebuilding Master Controller
+[19:32:09]ACCESS: Login: DarkGhost12/(DarkGhost12) from 127.0.0.1-4125478034 || BYOND v506
+[19:32:21]ADMIN: DarkGhost12 has started the game.
+[19:32:22]ACCESS: Logout: *no key*/(DarkGhost12)
+[19:32:22]ACCESS: Login: DarkGhost12/(Casimir Goebbles) from 127.0.0.1-4125478034 || BYOND v506
+[19:32:39]DEBUG: Next event in 28.802 minutes.
+[19:33:15]SAY: mouse (184)/ : Squeek!
+[19:33:24]ADMIN: DarkGhost12/(Casimir Goebbles) created a /obj/item/clothing/under/fluff/nursesuitred
+[19:33:54]ACCESS: Logout: DarkGhost12/(Casimir Goebbles)
+
+
+Starting up. 23:14.35
+---------------------
+[23:14:35]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[23:14:35]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[23:14:35]MISC: Adding game mode traitor (traitor) to configuration.
+[23:14:35]MISC: Adding game mode calamity (calamity) to configuration.
+[23:14:35]MISC: Adding game mode changeling (changeling) to configuration.
+[23:14:35]MISC: Adding game mode cult (cult) to configuration.
+[23:14:35]MISC: Adding game mode extended (extended) to configuration.
+[23:14:35]MISC: Adding game mode heist (heist) to configuration.
+[23:14:35]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[23:14:35]MISC: Adding game mode meteor (meteor) to configuration.
+[23:14:35]MISC: Adding game mode mutiny (mutiny) to configuration.
+[23:14:35]MISC: Adding game mode ninja (ninja) to configuration.
+[23:14:35]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[23:14:35]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[23:14:35]MISC: Adding game mode revolution (revolution) to configuration.
+[23:14:35]MISC: Adding game mode wizard (wizard) to configuration.
+[23:14:35]MISC: Unknown setting in configuration: 'sql_enabled'
+[23:14:43]MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[23:14:44]MISC: Database connection failed. Reverting to the legacy ban system.
+[23:14:44]ADMIN: Loading jobban_rank
+[23:14:44]ADMIN: jobban_keylist was empty
+[23:14:44]ADMIN: Loading Banlist
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[23:14:45]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 23:15.19
+---------------------
+[23:15:19]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[23:15:19]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[23:15:19]MISC: Adding game mode traitor (traitor) to configuration.
+[23:15:19]MISC: Adding game mode calamity (calamity) to configuration.
+[23:15:19]MISC: Adding game mode changeling (changeling) to configuration.
+[23:15:19]MISC: Adding game mode cult (cult) to configuration.
+[23:15:19]MISC: Adding game mode extended (extended) to configuration.
+[23:15:19]MISC: Adding game mode heist (heist) to configuration.
+[23:15:19]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[23:15:19]MISC: Adding game mode meteor (meteor) to configuration.
+[23:15:19]MISC: Adding game mode mutiny (mutiny) to configuration.
+[23:15:19]MISC: Adding game mode ninja (ninja) to configuration.
+[23:15:19]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[23:15:19]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[23:15:19]MISC: Adding game mode revolution (revolution) to configuration.
+[23:15:19]MISC: Adding game mode wizard (wizard) to configuration.
+[23:15:19]MISC: Unknown setting in configuration: 'sql_enabled'
+[23:15:24]ADMIN: Loading Banlist
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[23:15:24]DEBUG: Rebuilding Master Controller
+[23:16:13]ACCESS: Login: DarkGhost12/(DarkGhost12) from 127.0.0.1-4125478034 || BYOND v506
+[23:16:41]ADMIN: DarkGhost12 has started the game.
+[23:16:41]ACCESS: Logout: *no key*/(DarkGhost12)
+[23:16:41]ACCESS: Login: DarkGhost12/(Astor King) from 127.0.0.1-4125478034 || BYOND v506
+[23:16:57]DEBUG: Next event in 47.586 minutes.
+[23:17:01]ADMIN: DarkGhost12/(Astor King) deleted Astor King at (8,174,2)
+[23:17:01]ACCESS: Logout: *no key*/(Astor King)
+[23:17:01]ACCESS: Login: DarkGhost12/(Astor King) from 127.0.0.1-4125478034 || BYOND v506
+[23:17:03]SAY: mouse (235)/ : Squeek!
+[23:17:05]ADMIN: DarkGhost12/(Astor King) jumped to the aft port solars
+[23:17:09]ADMIN: DarkGhost12/(Astor King) jumped to Atmospherics
+[23:17:18]ADMIN: DarkGhost12/(Astor King) has used rudimentary transformation on DarkGhost12/(Astor King). Transforming to human; deletemob=1
+[23:17:18]ACCESS: Logout: *no key*/(Astor King)
+[23:17:18]ACCESS: Login: DarkGhost12/(Astor King) from 127.0.0.1-4125478034 || BYOND v506
+[23:17:24]ACCESS: Logout: *no key*/(Astor King)
+[23:17:24]ACCESS: Login: DarkGhost12/(Astor King) from 127.0.0.1-4125478034 || BYOND v506
+[23:17:32]ADMIN: DarkGhost12/(Astor King) initiated a reboot.
+[23:17:37]ACCESS: Logout: DarkGhost12/(Astor King)
+
+
+Starting up. 23:17.57
+---------------------
+[23:17:57]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[23:17:57]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[23:17:57]MISC: Adding game mode traitor (traitor) to configuration.
+[23:17:57]MISC: Adding game mode calamity (calamity) to configuration.
+[23:17:57]MISC: Adding game mode changeling (changeling) to configuration.
+[23:17:57]MISC: Adding game mode cult (cult) to configuration.
+[23:17:57]MISC: Adding game mode extended (extended) to configuration.
+[23:17:57]MISC: Adding game mode heist (heist) to configuration.
+[23:17:57]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[23:17:57]MISC: Adding game mode meteor (meteor) to configuration.
+[23:17:57]MISC: Adding game mode mutiny (mutiny) to configuration.
+[23:17:57]MISC: Adding game mode ninja (ninja) to configuration.
+[23:17:57]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[23:17:57]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[23:17:57]MISC: Adding game mode revolution (revolution) to configuration.
+[23:17:57]MISC: Adding game mode wizard (wizard) to configuration.
+[23:17:57]MISC: Unknown setting in configuration: 'sql_enabled'
+[23:18:03]ADMIN: Loading Banlist
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[23:18:03]DEBUG: Rebuilding Master Controller
+[23:19:20]ACCESS: Login: DarkGhost12/(DarkGhost12) from 127.0.0.1-4125478034 || BYOND v506
+[23:19:41]ADMIN: DarkGhost12 has started the game.
+[23:19:41]ACCESS: Logout: *no key*/(DarkGhost12)
+[23:19:41]ACCESS: Login: DarkGhost12/(Lily Hegarty) from 127.0.0.1-4125478034 || BYOND v506
+[23:19:58]DEBUG: Next event in 37.422 minutes.
+[23:20:51]SAY: Runtime/ : Esp!
+[23:20:57]SAY: Experiment 97d/ : EHEHEHEHEH
+[23:21:45]ACCESS: Logout: DarkGhost12/(Lily Hegarty)
+
+
+Starting up. 23:32.26
+---------------------
+[23:32:26]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[23:32:26]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[23:32:26]MISC: Adding game mode traitor (traitor) to configuration.
+[23:32:26]MISC: Adding game mode calamity (calamity) to configuration.
+[23:32:26]MISC: Adding game mode changeling (changeling) to configuration.
+[23:32:26]MISC: Adding game mode cult (cult) to configuration.
+[23:32:26]MISC: Adding game mode extended (extended) to configuration.
+[23:32:26]MISC: Adding game mode heist (heist) to configuration.
+[23:32:26]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[23:32:26]MISC: Adding game mode meteor (meteor) to configuration.
+[23:32:26]MISC: Adding game mode mutiny (mutiny) to configuration.
+[23:32:26]MISC: Adding game mode ninja (ninja) to configuration.
+[23:32:26]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[23:32:26]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[23:32:26]MISC: Adding game mode revolution (revolution) to configuration.
+[23:32:26]MISC: Adding game mode wizard (wizard) to configuration.
+[23:32:26]MISC: Unknown setting in configuration: 'sql_enabled'
+[23:32:30]ADMIN: Loading Banlist
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[23:32:31]DEBUG: Rebuilding Master Controller
+[23:34:21]ACCESS: Login: DarkGhost12/(DarkGhost12) from 127.0.0.1-4125478034 || BYOND v506
+[23:34:38]ADMIN: DarkGhost12 has started the game.
+[23:34:38]ACCESS: Logout: *no key*/(DarkGhost12)
+[23:34:38]ACCESS: Login: DarkGhost12/(Leland Anderson) from 127.0.0.1-4125478034 || BYOND v506
+[23:34:55]DEBUG: Next event in 34.7 minutes.
+[23:35:12]ACCESS: Logout: DarkGhost12/(Leland Anderson)
+
+
+Starting up. 23:45.17
+---------------------
+[23:45:17]MISC: Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+[23:45:17]MISC: Adding game mode traitor+changeling (traitorchan) to configuration.
+[23:45:17]MISC: Adding game mode traitor (traitor) to configuration.
+[23:45:17]MISC: Adding game mode calamity (calamity) to configuration.
+[23:45:17]MISC: Adding game mode changeling (changeling) to configuration.
+[23:45:17]MISC: Adding game mode cult (cult) to configuration.
+[23:45:17]MISC: Adding game mode extended (extended) to configuration.
+[23:45:17]MISC: Adding game mode heist (heist) to configuration.
+[23:45:17]MISC: Adding game mode AI malfunction (malfunction) to configuration.
+[23:45:17]MISC: Adding game mode meteor (meteor) to configuration.
+[23:45:17]MISC: Adding game mode mutiny (mutiny) to configuration.
+[23:45:17]MISC: Adding game mode ninja (ninja) to configuration.
+[23:45:17]MISC: Adding game mode nuclear emergency (nuclear) to configuration.
+[23:45:17]MISC: Adding game mode rp-revolution (rp-revolution) to configuration.
+[23:45:17]MISC: Adding game mode revolution (revolution) to configuration.
+[23:45:17]MISC: Adding game mode wizard (wizard) to configuration.
+[23:45:17]MISC: Unknown setting in configuration: 'sql_enabled'
+[23:45:22]ADMIN: Loading Banlist
+Failed to load data/lists/donators.txt
+
+Failed to load data/lists/veterans.txt
+
+[23:45:22]DEBUG: Rebuilding Master Controller
+[23:51:16]ACCESS: Login: DarkGhost12/(DarkGhost12) from 127.0.0.1-4125478034 || BYOND v506
+[23:51:27]ADMIN: DarkGhost12 has started the game.
+[23:51:28]ACCESS: Logout: *no key*/(DarkGhost12)
+[23:51:28]ACCESS: Login: DarkGhost12/(Woodrow Price) from 127.0.0.1-4125478034 || BYOND v506
+[23:51:43]ACCESS: Logout: DarkGhost12/(Woodrow Price)

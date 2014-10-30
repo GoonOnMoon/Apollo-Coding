@@ -103,7 +103,7 @@
 
 //Cargo
 /datum/job/qm
-	title = "Head of Cargo"
+	title = "Quartermaster"
 	flag = QUARTERMASTER
 	department_flag = CIVILIAN
 	faction = "Station"
@@ -113,6 +113,7 @@
 	selection_color = "#dddddd"
 	access = list(access_maint_tunnels, access_mailsorting, access_cargo, access_cargo_bot, access_qm, access_mint, access_mining, access_mining_station)
 	minimal_access = list(access_maint_tunnels, access_mailsorting, access_cargo, access_cargo_bot, access_qm, access_mint, access_mining, access_mining_station)
+	alt_titles = list("Head of Cargo","Supply Supervisor")
 
 
 	equip(var/mob/living/carbon/human/H)
