@@ -5,7 +5,7 @@
 	energy_drain = 10
 	var/dam_force = 20
 	var/obj/mecha/working/ripley/cargo_holder
-	required_type = /obj/mecha/working
+	required_type = list(/obj/mecha/working, /obj/mecha/hoverpod) //so that hoverpods are a bit more useful as space transportation
 
 	attach(obj/mecha/M as obj)
 		..()
@@ -216,6 +216,8 @@
 								step_towards(W,my_target)
 								if(!W)
 									return
+								if(!W.reagents)
+									break
 								var/turf/W_turf = get_turf(W)
 								W.reagents.reaction(W_turf)
 								for(var/atom/atm in W_turf)
@@ -1161,6 +1163,10 @@
 		return
 	
 	if (!usr.Adjacent(src))
+		return
+	
+	if (!isturf(usr.loc))
+		usr << "\red You can't reach the passenger compartment from here."
 		return
 	
 	if(iscarbon(usr))
