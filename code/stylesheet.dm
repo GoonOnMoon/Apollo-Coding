@@ -69,6 +69,8 @@ h1.alert, h2.alert		{color: #000000;}
 .vox					{color: #AA00AA;}
 .rough					{font-family: "Trebuchet MS", cursive, sans-serif;}
 .say_quote				{font-family: Georgia, Verdana, sans-serif;}
+.donator				{color: #8D2B96;	font-weight: bold;}
+.donatornobold			{color: #8D2B96;}
 
 .interface				{color: #330033;}
 </style>"}
