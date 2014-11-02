@@ -51,3 +51,8 @@ baystation12.rsc
 baystation12.int
 baystation12.dmb
 *.log
+*.lk
+*.rsc
+*.int
+*.dme
+*.dmb
